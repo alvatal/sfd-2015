@@ -1,2 +1,1 @@
-# sfd-2015
-Vaba Tarkvara Päev 2015
+# [WIKI](https://github.com/alvatal/sfd-2015/wiki)
